@@ -1,2 +1,2 @@
 # MEALS-APP-MOBILE
-Mobile application
+Mobile application using React-Native
